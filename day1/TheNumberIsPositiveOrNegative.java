@@ -7,7 +7,7 @@ public class TheNumberIsPositiveOrNegative {
 	int c=a+b;
 	if(c>0) {
 		System.out.println("The Number is positive");
-	} else if(c<0)
+	} else
 	{
 		System.out.println("The Number is negative");
 	}
